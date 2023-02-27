@@ -1,3 +1,8 @@
 html {
     background-color: rgb(237, 160, 87);
 }
+
+#cat-chef {
+    width: 300px;
+    height: auto;
+}
